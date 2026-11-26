@@ -5,6 +5,8 @@ An autocorrect fail in one line: "meeting at noon" became "meeting
 at the moon", and HR is still waiting for the rocket. The calendar
 invite has never been the same since.
 
+The moon is the punchline: a one-word typo turns a meeting into a space mission, and HR still wants a status update.
+
 Writes the fail to entry.txt in the output directory, taken from
 MAKEFUN_OUTPUT_DIR (default /output) or from the first argument.
 """
